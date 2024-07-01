@@ -19,7 +19,7 @@
 
 ## Использованные технологии
 
-- **IDEA:** PyCharm (JetBrains) <a href="https://www.jetbrains.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Cib-jetbrains_%28CoreUI_Icons_v1.0.0%29.svg" alt="JetBrains" height="25" /></a>
+- **IDEA:** PyCharm (JetBrains) <a href="https://www.jetbrains.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/0/08/JetBrains_beam_logo.svg" alt="JetBrains" height="25" /></a>
 - **Язык программирования:** Python <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" height="25" /></a>
 - **Операционная система:** Windows 11 <img src="https://img.icons8.com/color/48/000000/windows-10.png" width="20"/>
 
