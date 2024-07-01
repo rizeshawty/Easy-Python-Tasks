@@ -1,2 +1,2 @@
-*.css linguist-detectable=false
-*.py linguist-detectable=true
+# Исправлено для файлов
+*.py linguist-language=Python
