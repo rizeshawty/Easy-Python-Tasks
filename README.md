@@ -21,6 +21,6 @@
 
 - **IDEA:** PyCharm (JetBrains) <a href="https://www.jetbrains.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/0/08/JetBrains_beam_logo.svg" alt="JetBrains" height="25" /></a>
 - **Язык программирования:** Python <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" height="25" /></a>
-- **Операционная система:** Windows 11 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" width="20"/>
+- **Операционная система:** Windows 11 <a href="https://en.wikipedia.org/wiki/Windows_11" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" alt="Windows 11" height="25" /></a>
 
 Удачи! 🚀
