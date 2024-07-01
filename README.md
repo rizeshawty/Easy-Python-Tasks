@@ -24,7 +24,8 @@ for otrezok in range(185311, 185330+1):
 Для установки и запуска, необходим [Python](https://www.python.org/downloads/).
 
 ## Deploy и CI/CD
-Anaconda, Sublime Text, Atom, VS Code, Google Colab, [еще...](https://shultais.education/blog/python-for-beginners/how-to-run-python-programs)
+Anaconda, Sublime Text, Atom, VS Code, Google Colab, 
+[еще...](https://realpython.com/run-python-scripts/)
 
 ## Contributing
 Для улучшения кода рекомендуется обращаться через социальные сети.
